@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=240&section=header&text=Kasiraboina%20Anusha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Packaged+App+Development+Associate+%40+Accenture;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Packaged+App+Development+Associate+%40+Accenture;Spring+Boot+Developer;REST+API+Developer;Continuous+Learning+%26+Problem+Solving"/>
 
 <br>
 
@@ -36,13 +36,10 @@
 
 # 👋 About Me
 
-I'm **Kasiraboina Anusha**, a **Packaged App Development Associate at Accenture** with a strong interest in **Java Backend Development** and **Enterprise Application Development**.
+I'm **Kasiraboina Anusha**, a **Packaged App Development Associate at Accenture** with a strong interest in Java backend development and enterprise applications.
 
-I enjoy building scalable backend systems, developing RESTful APIs, working with relational databases, and writing clean, maintainable code.
-
-My projects focus on Java, Spring Boot, REST APIs, multithreading, testing, and backend architecture.
-
-Currently, I'm strengthening my knowledge in **Spring Boot, Microservices, Docker, Azure, and System Design** while continuing to build enterprise-grade applications.
+I enjoy building REST APIs using Spring Boot, designing scalable backend systems, and working with relational databases. Through hands-on projects, I have gained practical experience in developing RESTful APIs, implementing layered architectures, integrating databases with Spring Data JPA, and writing clean, maintainable Java applications.
+I'm currently expanding my knowledge of Microservices, Azure, and System Design.
 
 ### 🚀 Open To
 
@@ -55,25 +52,26 @@ Currently, I'm strengthening my knowledge in **Spring Boot, Microservices, Docke
 ---
 # 💻 Tech Stack
 
-## Programming Languages
+## Languages & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql" />
 </p>
 
 | Category | Technologies |
 |-----------|--------------|
-| Languages | Java, Python, SQL, JavaScript |
-| Web | HTML5, CSS3 |
-| Database | MySQL, H2 |
-| Programming | Object-Oriented Programming (OOP), Collections, Exception Handling, Multithreading |
+| Programming Languages | Java, Python |
+| Web Technologies | HTML5, CSS3, JavaScript |
+| Database | MySQL, H2 Database |
+| Core Java | OOP, Collections Framework, Exception Handling, Multithreading |
+| SQL | DDL, DML, Joins, Constraints, CRUD Operations |
 
 ---
 
 ## Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,maven" />
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
 </p>
 
 ### Frameworks & Technologies
@@ -94,13 +92,13 @@ Currently, I'm strengthening my knowledge in **Spring Boot, Microservices, Docke
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- MySQL
-- H2 Database
-- SQL Query Writing
-- Database Design
+| Database / Technology | Experience |
+|-----------------------|------------|
+| MySQL | CRUD Operations, Relationships, SQL Queries |
+| H2 Database | Used for unit testing and development |
+| SQL | DDL, DML, Joins, Constraints |
 
 ---
-
 ## Tools & Platforms
 
 <p align="center">
@@ -128,7 +126,7 @@ Currently, I'm strengthening my knowledge in **Spring Boot, Microservices, Docke
 
 ---
 
-## Python Libraries
+## Python 
 
 <p align="center">
 
@@ -160,20 +158,16 @@ Currently, I'm strengthening my knowledge in **Spring Boot, Microservices, Docke
 # 🌱 Currently Learning
 
 - Spring Boot Advanced Concepts
-- Microservices Architecture
-- Docker
+- Microservices 
 - Azure Cloud Services
 - System Design
-- Design Patterns
-- Backend Performance Optimization
 
 ---
 
 # ✨ Highlights
 
 - 💼 Packaged App Development Associate at **Accenture**
-- ☕ Java Backend Developer
-- 🌱 Spring Boot Enthusiast
+- 🌱 Backend Application Development
 - 🗄️ Database Design & REST API Development
 - ☁️ Microsoft Azure Fundamentals Certified
 - 📚 Passionate about Clean Code & Software Engineering Best Practices
@@ -195,7 +189,7 @@ A Spring Boot backend application for managing pet owners, pets, employees, and 
 | **Architecture** | Layered Architecture |
 | **Features** | REST APIs, CRUD Operations, Scheduling System |
 | **Testing** | JUnit |
-| **Repository** | https://github.com/Anushakasiraboina/CritterChronologer |
+| **Repository** | [View Repository](https://github.com/Anushakasiraboina/CritterChronologer) |
 
 ### Key Highlights
 
@@ -222,7 +216,7 @@ A multithreaded Java web crawler developed using the Fork/Join Framework to effi
 | **Concurrency** | ForkJoinPool, Recursive Tasks |
 | **Features** | Parallel Crawling, JSON Configuration, Profiling |
 | **Testing** | JUnit |
-| **Repository** | https://github.com/Anushakasiraboina/ParallelWebCrawler |
+| **Repository** | [View Repository](https://github.com/Anushakasiraboina/ParallelWebCrawler) |
 
 ### Key Highlights
 
@@ -248,7 +242,7 @@ A Java-based home security monitoring application focused on modular architectur
 | **Tech Stack** | Java, Maven |
 | **Testing** | JUnit 5, Mockito |
 | **Architecture** | Multi-Module Maven Project |
-| **Repository** | https://github.com/Anushakasiraboina/UdaSecurity |
+| **Repository** | [View Repository](https://github.com/Anushakasiraboina/UdaSecurity) |
 
 ### Key Highlights
 
@@ -274,7 +268,7 @@ A Java application that manages hotel room bookings, customer records, and reser
 | **Tech Stack** | Java |
 | **Core Concepts** | OOP, Collections, Exception Handling |
 | **Features** | Reservation Management, Customer Management |
-| **Repository** | https://github.com/Anushakasiraboina/HotelReservationSystem |
+| **Repository** | [View Repository](https://github.com/Anushakasiraboina/HotelReservationSystem) |
 
 ### Key Highlights
 
@@ -295,7 +289,7 @@ A Java application that manages hotel room bookings, customer records, and reser
 
 **February 2026 – Present**
 
-Working as a **Packaged App Development Associate**, contributing to enterprise application development and supporting business solutions within Agile teams.
+Working as a **Packaged App Development Associate** at Accenture, contributing to enterprise application development by implementing backend functionality, resolving issues, and collaborating with Agile teams to deliver business solutions.
 
 ### Responsibilities
 
@@ -308,30 +302,18 @@ Working as a **Packaged App Development Associate**, contributing to enterprise 
 
 ### Technologies
 
-`Java` `SQL` `REST APIs` `Git` `GitHub` `Maven` `Agile`
+`Java` `Spring Boot` `SQL` `REST APIs` `Git` `GitHub` `Maven` `Agile`
 
 ---
 # 🏆 Certifications
 
-| Provider | Certification | Status |
-|-----------|---------------|--------|
-| Microsoft | Azure Fundamentals | ✅ Certified |
-| Udemy | Java Full Stack Development | ✅ Completed |
-| Udemy | Python Programming | ✅ Completed |
-| Infosys Springboard | Cloud Computing | ✅ Completed |
-| Google Developers | Introduction to SQL | ✅ Completed |
-
----
-
-# 🌐 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/Anushakasiraboina">
-<img src="https://img.shields.io/badge/GitHub-Anushakasiraboina-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+| Provider | Certification | Year | Status |
+|-----------|---------------|------|--------|
+| Microsoft | Microsoft Certified: Azure Fundamentals | 2024 | ✅ Certified |
+| Udemy | Java Full Stack Development | 2025 | ✅ Completed |
+| Udemy | Python Programming | 2025 | ✅ Completed |
+| Infosys Springboard | Cloud Computing | 2024 | ✅ Completed |
+| Google Developers | Introduction to SQL | 2025 | ✅ Completed |
 
 ---
 
@@ -353,38 +335,6 @@ Working as a **Packaged App Development Associate**, contributing to enterprise 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anushakasiraboina&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushakasiraboina&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Note:** Enable the GitHub Action in your profile repository to generate the contribution snake automatically.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anushakasiraboina/Anushakasiraboina/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 ```yaml
@@ -399,9 +349,9 @@ Learning:
   - System Design
 
 Building:
-  - Enterprise Java Applications
-  - RESTful APIs
-  - Spring Boot Projects
+  - Spring Boot REST APIs
+  - Java Backend Applications
+  - Enterprise Software Projects
   - Full Stack Java Applications
 
 Improving:
@@ -441,7 +391,7 @@ Open To:
 
 <div align="center">
 
-### 💡 *"Committed to building reliable enterprise applications through continuous learning, clean code, and modern software engineering practices."*
+### 💡 *"Building scalable backend solutions through clean code, continuous learning, and modern Java development."*
 
 </div>
 
