@@ -2,18 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=240&section=header&text=Kasiraboina%20Anusha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Packaged+App+Development+Associate+%40+Accenture;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Reliable+Backend+Applications;Always+Learning+%26+Growing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Packaged+App+Development+Associate+%40+Accenture;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
 
 <br>
 
-<a href="https://www.credly.com/" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/Location-Hyderabad,%20India-6f42c1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 <a href="https://www.linkedin.com/in/kasiraboina-anusha-99ba0b252">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:anushakasiraboina16@gmail.com">
@@ -24,27 +18,33 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<img src="https://img.shields.io/badge/Location-Hyderabad,%20India-6f42c1?style=for-the-badge&logo=googlemaps"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=Anushakasiraboina&style=for-the-badge&color=6f42c1)
 
-![](https://img.shields.io/github/followers/Anushakasiraboina?style=for-the-badge&color=6f42c1)
+![](https://img.shields.io/github/followers/Anushakasiraboina?style=for-the-badge)
 
-![](https://img.shields.io/github/stars/Anushakasiraboina?affiliations=OWNER&style=for-the-badge&color=6f42c1)
+![](https://img.shields.io/github/stars/Anushakasiraboina?affiliations=OWNER&style=for-the-badge)
 
 </div>
 
 ---
 
-# About Me
+# 👋 About Me
 
-I'm **Kasiraboina Anusha**, a **Packaged App Development Associate at Accenture** with a strong interest in backend development and enterprise application engineering.
+I'm **Kasiraboina Anusha**, a **Packaged App Development Associate at Accenture** with a strong interest in **Java Backend Development** and **Enterprise Application Development**.
 
-I enjoy building scalable Java applications, designing RESTful APIs, working with relational databases, and writing clean, maintainable code. My projects have strengthened my understanding of object-oriented programming, multithreading, testing, and modern backend development practices.
+I enjoy building scalable backend systems, developing RESTful APIs, working with relational databases, and writing clean, maintainable code.
 
-Currently, I'm expanding my knowledge in Spring Boot, Microservices, Docker, Cloud Technologies, and System Design while continuously improving my software engineering skills.
+My projects focus on Java, Spring Boot, REST APIs, multithreading, testing, and backend architecture.
 
-### Open To
+Currently, I'm strengthening my knowledge in **Spring Boot, Microservices, Docker, Azure, and System Design** while continuing to build enterprise-grade applications.
+
+### 🚀 Open To
 
 - Java Backend Development
 - Full Stack Development
@@ -53,337 +53,80 @@ Currently, I'm expanding my knowledge in Spring Boot, Microservices, Docker, Clo
 - Learning Modern Cloud Technologies
 
 ---
+# 💻 Tech Stack
 
-# Tech Stack
+## Programming Languages
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js" />
 </p>
+
+| Category | Technologies |
+|-----------|--------------|
+| Languages | Java, Python, SQL, JavaScript |
+| Web | HTML5, CSS3 |
+| Database | MySQL, H2 |
+| Programming | Object-Oriented Programming (OOP), Collections, Exception Handling, Multithreading |
 
 ---
 
 ## Backend Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-**Frameworks & Technologies**
+### Frameworks & Technologies
 
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
 - Hibernate
-- REST APIs
+- RESTful APIs
 - JDBC
+- Maven
 
 ---
 
 ## Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 - MySQL
 - H2 Database
+- SQL Query Writing
+- Database Design
 
 ---
 
 ## Tools & Platforms
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,postman"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman,docker" />
 </p>
 
 - Git
 - GitHub
-- Maven
 - IntelliJ IDEA
 - Postman
+- Maven
+- Docker *(Learning)*
 
 ---
 
-## Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
-
-- Docker
-- Microservices
-- System Design
-- Cloud Computing
-- Advanced Spring Boot
-
----
-
-# Technical Expertise
-
-| Area | Skills |
-|------|--------|
-| Backend Development | Java, Spring Boot, REST APIs |
-| Database Management | MySQL, H2, SQL |
-| ORM | Hibernate, Spring Data JPA |
-| Build Tools | Maven |
-| Testing | JUnit, Mockito |
-| Version Control | Git & GitHub |
-| Development Tools | IntelliJ IDEA, Postman |
-| Programming Concepts | OOP, Collections, Exception Handling, Multithreading |
-
----
-
-# What I Enjoy Working On
-
-- Enterprise Backend Applications
-- RESTful API Development
-- Database Design
-- Java Concurrency
-- Software Testing
-- Clean Code Practices
-- Performance Optimization
-- Continuous Learning
-
----
-
-# Highlights
-
-- Packaged App Development Associate at **Accenture**
-- Java Backend Developer
-- Spring Boot Enthusiast
-- Microsoft Azure Fundamentals Certified
-- Passionate about writing clean and maintainable code
-- Continuously improving backend development skills
-
----
-# Featured Projects
-
-<details open>
-<summary><b>🐾 Critter Chronologer</b></summary>
-
-A Spring Boot REST API that manages pet owners, pets, employees, schedules, and services for an animal care business.
-
-| Category | Details |
-|-----------|---------|
-| **Tech Stack** | Java, Spring Boot, Spring Data JPA, Hibernate, MySQL |
-| **Architecture** | Layered Architecture |
-| **Features** | REST APIs, CRUD Operations, Scheduling System |
-| **Testing** | JUnit |
-| **Repository** | CritterChronologer |
-
-### Highlights
-
-- Developed RESTful APIs using Spring Boot.
-- Integrated MySQL using Hibernate and JPA.
-- Implemented scheduling and employee management.
-- Applied clean layered architecture.
-
-</details>
-
----
-
-<details>
-<summary><b>🌐 Parallel Web Crawler</b></summary>
-
-A high-performance multithreaded web crawler developed using Java's Fork/Join framework.
-
-| Category | Details |
-|-----------|---------|
-| **Tech Stack** | Java |
-| **Concurrency** | ForkJoinPool |
-| **Performance** | Parallel Crawling |
-| **Repository** | ParallelWebCrawler |
-
-### Highlights
-
-- Concurrent URL crawling
-- Performance optimization
-- Recursive task execution
-- Java concurrency utilities
-
-</details>
-
----
-
-<details>
-<summary><b>🛡️ UdaSecurity</b></summary>
-
-A Java-based home security monitoring application with unit testing and modular architecture.
-
-| Category | Details |
-|-----------|---------|
-| **Tech Stack** | Java |
-| **Testing** | JUnit, Mockito |
-| **Build Tool** | Maven |
-| **Repository** | UdaSecurity |
-
-### Highlights
-
-- Sensor monitoring
-- Alarm management
-- Unit testing
-- Clean modular code
-
-</details>
-
----
-
-<details>
-<summary><b>🏨 Hotel Reservation System</b></summary>
-
-A Java application for managing hotel bookings, customers, and room reservations.
-
-| Category | Details |
-|-----------|---------|
-| **Tech Stack** | Java |
-| **Database** | File/Collections |
-| **Concepts** | OOP, Collections |
-| **Repository** | HotelReservationSystem |
-
-### Highlights
-
-- Reservation management
-- Customer records
-- Object-Oriented Programming
-- Exception handling
-
-</details>
-
----
-
-# Professional Experience
-
-## 💼 Custom Software Engineer
-
-### Accenture
-
-**Packaged App Development Associate**
-
-**February 2026 – Present**
-
-Working on enterprise software solutions while collaborating within Agile teams to develop and maintain business applications.
-
-### Responsibilities
-
-- Develop enterprise software applications.
-- Enhance and maintain existing applications.
-- Collaborate with cross-functional teams.
-- Debug and resolve production issues.
-- Follow software engineering best practices.
-- Write clean, reusable, and maintainable code.
-
-### Technologies
-
-`Java` `Git` `SQL` `REST APIs` `Agile`
-
----
-
-# Certifications
-
-| Certification | Provider |
-|---------------|----------|
-| Microsoft Certified: Azure Fundamentals | Microsoft |
-| Java Full Stack | Udemy |
-| Python Programming | Udemy |
-| Cloud Computing | Infosys Springboard |
-| Introduction to SQL | Google Developers |
-
----
-
-# Professional Skills
-
-| Category | Skills |
-|-----------|--------|
-| Programming | Java, Python, SQL |
-| Backend | Spring Boot, Spring MVC, REST APIs |
-| ORM | Hibernate, Spring Data JPA |
-| Database | MySQL, H2 |
-| Tools | Git, GitHub, Maven, IntelliJ IDEA, Postman |
-| Concepts | OOP, Collections, Exception Handling, Multithreading |
-| Practices | Clean Code, Version Control, Agile Development |
-
----
----
-
-# 💫 About Me
-
-I'm a **Packaged App Development Associate at Accenture** with a strong foundation in **Java, Spring Boot, SQL, REST APIs, and Full Stack Development**.
-
-I enjoy designing scalable backend systems, building enterprise applications, and solving real-world software engineering problems through clean architecture and maintainable code.
-
-Currently working as a **Packaged App Development Associate**, I'm expanding my expertise in backend development, cloud technologies, and modern software engineering practices.
-
-### Currently
-
-- 💼 Packaged App Development Associate @ Accenture
-- 🌱 Learning Spring Boot, Microservices & Cloud Technologies
-- 💻 Building Full Stack Java Applications
-- 🚀 Exploring System Design & Backend Engineering
-- 🤝 Open to Software Engineering collaborations
-
----
-
-# 💻 Tech Stack
-
-## Languages
+## Cloud & Certifications
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
+<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud-Infosys%20Springboard-6f42c1?style=for-the-badge"/>
 
 </p>
 
-## Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
-
-</p>
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-
-</p>
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
-
-## Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-
-</p>
-
-## Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=azure" />
-
-</p>
+---
 
 ## Python Libraries
 
@@ -399,96 +142,152 @@ Currently working as a **Packaged App Development Associate**, I'm expanding my 
 
 # 📚 Technical Expertise
 
-| Area | Skills |
-|-------|--------|
+| Domain | Skills |
+|---------|--------|
 | Backend Development | Java, Spring Boot, REST APIs |
-| Database | MySQL, SQL |
-| Programming | Object-Oriented Programming |
-| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Database Management | MySQL, SQL, H2 Database |
+| ORM | Hibernate, Spring Data JPA |
+| Build Tool | Maven |
+| Testing | JUnit, Mockito |
 | Version Control | Git & GitHub |
-| Development Tools | Maven, IntelliJ IDEA, VS Code, Postman |
+| Development Tools | IntelliJ IDEA, Postman |
 | Cloud | Microsoft Azure Fundamentals |
 | Python | Python, NumPy, Pandas |
+| Software Engineering | OOP, Collections, Exception Handling, Multithreading |
 
 ---
 
+# 🌱 Currently Learning
+
+- Spring Boot Advanced Concepts
+- Microservices Architecture
+- Docker
+- Azure Cloud Services
+- System Design
+- Design Patterns
+- Backend Performance Optimization
+
+---
+
+# ✨ Highlights
+
+- 💼 Packaged App Development Associate at **Accenture**
+- ☕ Java Backend Developer
+- 🌱 Spring Boot Enthusiast
+- 🗄️ Database Design & REST API Development
+- ☁️ Microsoft Azure Fundamentals Certified
+- 📚 Passionate about Clean Code & Software Engineering Best Practices
+- 🚀 Continuously learning modern backend technologies
+
+---
 # 🚀 Featured Projects
+
+<details open>
+<summary><b>🐾 Critter Chronologer</b></summary>
+
+### Overview
+
+A Spring Boot backend application for managing pet owners, pets, employees, and scheduling services for an animal care business.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Java, Spring Boot, Spring Data JPA, Hibernate, MySQL |
+| **Architecture** | Layered Architecture |
+| **Features** | REST APIs, CRUD Operations, Scheduling System |
+| **Testing** | JUnit |
+| **Repository** | https://github.com/Anushakasiraboina/CritterChronologer |
+
+### Key Highlights
+
+- Developed RESTful APIs using Spring Boot.
+- Implemented layered architecture with Controller, Service, and Repository layers.
+- Integrated MySQL using Spring Data JPA and Hibernate.
+- Managed employee scheduling and pet service operations.
+- Successfully passed the provided functional tests.
+
+</details>
+
+---
+
+<details>
+<summary><b>🕷️ Parallel Web Crawler</b></summary>
+
+### Overview
+
+A multithreaded Java web crawler developed using the Fork/Join Framework to efficiently crawl web pages in parallel.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Java, Maven |
+| **Concurrency** | ForkJoinPool, Recursive Tasks |
+| **Features** | Parallel Crawling, JSON Configuration, Profiling |
+| **Testing** | JUnit |
+| **Repository** | https://github.com/Anushakasiraboina/ParallelWebCrawler |
+
+### Key Highlights
+
+- Built a concurrent crawler using Java's Fork/Join framework.
+- Implemented recursive task execution for improved performance.
+- Added JSON-based configuration and result generation.
+- Integrated profiling support to measure crawl performance.
+- Implemented functional word-count sorting using Java Streams.
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ UdaSecurity</b></summary>
+
+### Overview
+
+A Java-based home security monitoring application focused on modular architecture, unit testing, and Maven-based build automation.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Java, Maven |
+| **Testing** | JUnit 5, Mockito |
+| **Architecture** | Multi-Module Maven Project |
+| **Repository** | https://github.com/Anushakasiraboina/UdaSecurity |
+
+### Key Highlights
+
+- Added comprehensive unit tests for Security Service.
+- Refactored the project into separate Maven modules.
+- Improved maintainability through interface-based design.
+- Configured Maven lifecycle and build plugins.
+- Generated executable JAR and static analysis reports.
+
+</details>
+
+---
 
 <details>
 <summary><b>🏨 Hotel Reservation System</b></summary>
 
 ### Overview
 
-Enterprise Java application for managing hotel reservations, room bookings, and customer records.
+A Java application that manages hotel room bookings, customer records, and reservation operations using object-oriented programming concepts.
 
 | Category | Details |
 |----------|---------|
-| Language | Java |
-| Database | MySQL |
-| Architecture | Object-Oriented Programming |
-| Features | Booking Management, Customer Management |
-| Repository | https://github.com/Anushakasiraboina/HotelReservationSystem |
+| **Tech Stack** | Java |
+| **Core Concepts** | OOP, Collections, Exception Handling |
+| **Features** | Reservation Management, Customer Management |
+| **Repository** | https://github.com/Anushakasiraboina/HotelReservationSystem |
+
+### Key Highlights
+
+- Designed an object-oriented reservation management system.
+- Managed customers, rooms, and booking workflows.
+- Applied Java Collections Framework effectively.
+- Implemented exception handling and modular code organization.
 
 </details>
 
 ---
 
-<details>
-<summary><b>🐾 Critter Chronologer</b></summary>
-
-### Overview
-
-Spring Boot REST API for managing pet owners, pets, employees, and scheduling services.
-
-| Category | Details |
-|----------|---------|
-| Backend | Spring Boot |
-| Database | MySQL |
-| ORM | JPA / Hibernate |
-| Build Tool | Maven |
-| Repository | https://github.com/Anushakasiraboina/CritterChronologer |
-
-</details>
-
----
-
-<details>
-<summary><b>🕷 Parallel Web Crawler</b></summary>
-
-### Overview
-
-A multithreaded Java web crawler developed using the Fork/Join Framework for efficient parallel crawling.
-
-| Category | Details |
-|----------|---------|
-| Language | Java |
-| Concurrency | Fork/Join Framework |
-| Build Tool | Maven |
-| Repository | https://github.com/Anushakasiraboina/ParallelWebCrawler |
-
-</details>
-
----
-
-<details>
-<summary><b>🏠 UdaSecurity</b></summary>
-
-### Overview
-
-Java-based home security monitoring application with sensor management and unit testing.
-
-| Category | Details |
-|----------|---------|
-| Language | Java |
-| Testing | JUnit |
-| Build Tool | Maven |
-| Repository | https://github.com/Anushakasiraboina/UdaSecurity |
-
-</details>
-
----
-
-# 💼 Experience
+# 💼 Professional Experience
 
 ## Packaged App Development Associate
 
@@ -496,54 +295,53 @@ Java-based home security monitoring application with sensor management and unit 
 
 **February 2026 – Present**
 
-Working on enterprise software development projects while building expertise in backend development and application modernization.
+Working as a **Packaged App Development Associate**, contributing to enterprise application development and supporting business solutions within Agile teams.
 
 ### Responsibilities
 
-- Developing enterprise software solutions
-- Backend application development
-- REST API implementation
-- Database integration
-- Debugging and issue resolution
-- Agile software development
-- Version control using Git
+- Develop and maintain enterprise applications.
+- Implement backend business logic using Java.
+- Work with SQL databases and RESTful APIs.
+- Debug, test, and enhance existing applications.
+- Collaborate with cross-functional Agile teams.
+- Follow clean coding standards and software engineering best practices.
 
 ### Technologies
 
-`Java` `Spring Boot` `SQL` `Git` `GitHub` `REST API`
+`Java` `SQL` `REST APIs` `Git` `GitHub` `Maven` `Agile`
 
 ---
-
 # 🏆 Certifications
 
-| Provider | Certification |
-|-----------|---------------|
-| Microsoft | Azure Fundamentals |
-| Udemy | Python Programming |
-| Udemy | Java Full Stack Development |
-| Infosys Springboard | Cloud Computing |
-| Google Developers | Introduction to SQL |
+| Provider | Certification | Status |
+|-----------|---------------|--------|
+| Microsoft | Azure Fundamentals | ✅ Certified |
+| Udemy | Java Full Stack Development | ✅ Completed |
+| Udemy | Python Programming | ✅ Completed |
+| Infosys Springboard | Cloud Computing | ✅ Completed |
+| Google Developers | Introduction to SQL | ✅ Completed |
 
 ---
 
 # 🌐 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Anushakasiraboina">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Anushakasiraboina-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anushakasiraboina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anushakasiraboina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushakasiraboina&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushakasiraboina&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -577,9 +375,9 @@ Working on enterprise software development projects while building expertise in 
 
 # 🐍 Contribution Snake
 
-<div align="center">
+> **Note:** Enable the GitHub Action in your profile repository to generate the contribution snake automatically.
 
-> **Note:** The contribution snake requires a GitHub Action to generate automatically.
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Anushakasiraboina/Anushakasiraboina/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -590,27 +388,32 @@ Working on enterprise software development projects while building expertise in 
 # 🎯 Current Focus
 
 ```yaml
-Currently Learning:
+Current Role:
+  Packaged App Development Associate @ Accenture
+
+Learning:
   - Spring Boot
   - Microservices
-  - REST API Design
+  - Docker
   - Azure Cloud
   - System Design
 
 Building:
   - Enterprise Java Applications
-  - Backend REST APIs
-  - Full Stack Projects
+  - RESTful APIs
+  - Spring Boot Projects
+  - Full Stack Java Applications
 
 Improving:
   - Data Structures & Algorithms
   - SQL Optimization
+  - Software Design Patterns
   - Clean Code Practices
 
 Open To:
-  - Software Engineering Roles
-  - Backend Development
-  - Java Full Stack Development
+  - Java Backend Development
+  - Full Stack Development
+  - Enterprise Application Development
   - Open Source Collaboration
 ```
 
@@ -621,15 +424,15 @@ Open To:
 <div align="center">
 
 <a href="mailto:anushakasiraboina16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kasiraboina-anusha-99ba0b252">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Anushakasiraboina">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -638,8 +441,8 @@ Open To:
 
 <div align="center">
 
-### *"Building reliable software through continuous learning, clean code, and modern engineering practices."*
+### 💡 *"Committed to building reliable enterprise applications through continuous learning, clean code, and modern software engineering practices."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=120&section=footer"/>
