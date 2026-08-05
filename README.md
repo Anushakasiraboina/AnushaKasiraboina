@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=240&section=header&text=Kasiraboina%20Anusha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Accenture;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Reliable+Backend+Applications;Always+Learning+%26+Growing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Packaged+App+Development+Associate+%40+Accenture;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Reliable+Backend+Applications;Always+Learning+%26+Growing"/>
 
 <br>
 
