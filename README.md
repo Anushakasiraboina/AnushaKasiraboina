@@ -38,7 +38,7 @@
 
 # About Me
 
-I'm **Kasiraboina Anusha**, a **Software Engineer at Accenture** with a strong interest in backend development and enterprise application engineering.
+I'm **Kasiraboina Anusha**, a **Packaged App Development Associate at Accenture** with a strong interest in backend development and enterprise application engineering.
 
 I enjoy building scalable Java applications, designing RESTful APIs, working with relational databases, and writing clean, maintainable code. My projects have strengthened my understanding of object-oriented programming, multithreading, testing, and modern backend development practices.
 
@@ -160,7 +160,7 @@ Currently, I'm expanding my knowledge in Spring Boot, Microservices, Docker, Clo
 
 # Highlights
 
-- Software Engineer at **Accenture**
+- Packaged App Development Associate at **Accenture**
 - Java Backend Developer
 - Spring Boot Enthusiast
 - Microsoft Azure Fundamentals Certified
@@ -265,7 +265,7 @@ A Java application for managing hotel bookings, customers, and room reservations
 
 # Professional Experience
 
-## 💼 Software Engineer
+## 💼 Custom Software Engineer
 
 ### Accenture
 
@@ -319,7 +319,7 @@ Working on enterprise software solutions while collaborating within Agile teams 
 
 # 💫 About Me
 
-I'm a **Software Engineer at Accenture** with a strong foundation in **Java, Spring Boot, SQL, REST APIs, and Full Stack Development**.
+I'm a **Packaged App Development Associate at Accenture** with a strong foundation in **Java, Spring Boot, SQL, REST APIs, and Full Stack Development**.
 
 I enjoy designing scalable backend systems, building enterprise applications, and solving real-world software engineering problems through clean architecture and maintainable code.
 
